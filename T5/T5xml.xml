@@ -2,9 +2,6 @@
 <root>
    <bounds>-13.7245603216,49.5332836384,8.07096999906,61.0876535057</bounds>
    <format>png</format>
-   <Abstract></Abstract>
-   <SRS>EPSG:3857</SRS>
-   <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
    <maxZoom>8</maxZoom>
    <minZoom>5</minZoom>
    <name>T5</name>
