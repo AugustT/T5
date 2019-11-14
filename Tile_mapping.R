@@ -7,7 +7,7 @@ leaflet() %>%
   #setView(lng = 1615949, lat = 6313990, zoom = 5) %>%
   setView(lng = -99, lat = 45, zoom = 5)%>%
   #setView(lng = 0, lat = 7000000, zoom = 2) %>%
-  addTiles(urlTemplate = "https://patwright.github.io/Bin_T4/{z}/{x}/{y}.png",
+  addTiles(urlTemplate = "https://patwright.github.io/T5/T5/{z}/{x}/{y}.png",
            #attribution = 'Data source: <a href="http://guides.library.yale.edu/gisworkshoparchive">Yale University Library</a>', 
            options = tileOptions(minZoom = 5, maxZoom = 8, tms = TRUE))
 
